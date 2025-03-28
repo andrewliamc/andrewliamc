@@ -7,9 +7,9 @@ One of my proudest achievements is building a custom e-commerce site integrated 
 
 What I bring to the table:
 
-	•	HTML, CSS, JavaScript, ReactJS, Next.js
-	•	Stripe integration & ChatGPT API
-	•	Figma & Relume for sleek, strategic design
+	👨‍💻	HTML, CSS, JavaScript, ReactJS, Next.js
+	💰	Stripe integration & ChatGPT API
+	👨‍🎨	Figma & Relume for sleek, strategic design
 
 Clients describe me as kind, patient, and knowledgeable — someone who listens deeply, communicates clearly, and delivers solutions that actually work.
 
